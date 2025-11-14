@@ -1,6 +1,11 @@
 # FruitsParkOfficialApp
 
-##フルーツ公園公式アプリ　マップアプリ
+## フルーツ公園公式アプリ　マップアプリ
+
+iOS版：https://apps.apple.com/jp/app/fruitparkofficialapp/id6743319556
+
+Android版：https://play.google.com/store/apps/details?id=com.DefaultCompany.FruitParkOfficialApp&hl=ja
+
 
 **開発期間**：2023年〜2024年
 
